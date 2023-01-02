@@ -1,0 +1,23 @@
+// MARK: - TVShowList
+
+"tvShowNavigationTitle" = "TVShow Searcher";
+"search" = "Search";
+
+// MARK: - TVShowDetail
+
+"genre" = "Genre:";
+"starts" = "Starts at:";
+"every" = "Every:";
+"seasons" = "Seasons";
+
+// MARK: - Search
+
+"searchNavigationTitle" = "Search a TVShow";
+
+// MARK: - Episode
+
+"episode" = "Episode:";
+
+// MARK: - Error
+"error" = "Some error occured. Try again later, please.";
+"unavailable" = "Unavailable";
